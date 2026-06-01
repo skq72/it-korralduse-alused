@@ -12,3 +12,5 @@ Selle teema raames õppisin tundma ITIL-i (IT Infrastructure Library) raamistikk
 
 ## Näide elust
 Koolis lakkas töötamast Wi-Fi võrk. See on **intsident**. IT-tugi tegeleb selle kiire lahendamisega. Kui aga Wi-Fi kaob igal teisipäeval samal ajal, on see juba **probleem**, mille juurpõhjust tuleb uurida.
+
+6. **ITIL elutsükkel (Lifecycle)** — koosneb 5 osast: strateegia, disain, evitus, käitus ja pidev parendamine.
